@@ -32,17 +32,17 @@ except Exception as e:
 	print('[[\x1b[1;92m•\x1b[1;97m] [\x1b[1;96mAlvino_adijaya_xy')
 prox=open('.prox.txt','r').read().splitlines()
 for xd in range(10000):
-	a='Mozilla/5.0 (Linux; Android 10; LM-G710'
+	a='Mozilla/5.0 (Linux; Android 8.0.0; VS995'
 	b=random.randrange(1, 9)
 	c=random.randrange(1, 9)
-	d='Build/QKQ1.191222.002; wv)'
+	d='Build/OPR1.170623.032; wv)'
 	e=random.randrange(100, 9999)
 	f='AppleWebKit/537.36 (KHTML, like Gecko)'
 	g=random.randrange(1, 9)
 	h=random.randrange(1, 4)
 	i=random.randrange(1, 4)
 	j=random.randrange(1, 4)
-	k='Version/4.0 Chrome/80.0.3987.99 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/230.0.0.36.117;]'
+	k='Version/4.0 Chrome/76.0.3809.89 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/233.0.0.36.117;]'
 	uaku=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
 	ugen2.append(uaku)
 
